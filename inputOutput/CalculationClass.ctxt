@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=double\ addition(double,\ double)
+comment1.params=x\ y
+comment1.target=double\ subtraction(double,\ double)
+comment2.params=x\ y
+comment2.target=double\ multiplication(double,\ double)
+comment3.params=x\ y
+comment3.target=double\ division(double,\ double)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
